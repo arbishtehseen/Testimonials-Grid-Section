@@ -14,12 +14,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size (Desktop & Mobile)
-- Experience hover/focus states for interactive elements (if applicable)
-
-### Screenshot
-
-*(Add a screenshot of your finished project here)*
-`![Design Preview](./design/desktop-preview.jpg)`
+- Experience hover/focus states for interactive elements (if applicable)`
 
 ---
 
